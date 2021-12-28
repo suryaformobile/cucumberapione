@@ -11,7 +11,7 @@ public class payloadGenerator {
 	public static String generateStringPayload(String filename) throws IOException{
 	
 	
-	
+	//just
 	String filePath = System.getProperty("user.dir")+"\\src\\test\\java\\resources\\"+filename;
 	
 return new String(Files.readAllBytes(Paths.get(filePath)));

@@ -6,6 +6,7 @@ import io.restassured.path.json.JsonPath;
 public class fetchvaluefromjson {
 	
 	public static JsonPath jsonPath;
+	//just
 	
 	public static String valuefromjson(String response_body,String response_key) {
 		
