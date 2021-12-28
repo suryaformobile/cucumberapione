@@ -1,0 +1,32 @@
+{
+   "users":[
+      {
+         "firstname":"ABC",
+         "laststname":"XYZ",
+         "subjectid":"1",
+         "id":"1"
+      },
+      {
+         "firstname":"DEF",
+         "laststname":"TUV",
+         "subjectid":"1",
+         "id":"2"
+      },
+      {
+         "firstname":"GHI",
+         "laststname":"PQR",
+         "subjectid":"4",
+         "id":"3"
+      }
+   ],
+   "subjects":[
+      {
+         "subjectid":"1",
+         "name":"MATHS"
+      },
+      {
+         "subjectid":"2",
+         "name":"English"
+      }
+   ]
+}
